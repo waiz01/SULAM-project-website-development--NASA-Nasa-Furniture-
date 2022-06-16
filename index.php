@@ -1,4 +1,6 @@
+
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,6 +19,17 @@
 </head>
 <body>
     
+	<script>
+		function btnLog(){
+			document.location.href="login.php";
+		}
+		function btnReg(){
+			document.location.href="register.php";
+		}
+	</script>
+
+
+
 <!-- header section starts  -->
 
 <header class="header">
@@ -78,11 +91,12 @@
 
     <form action="" class="login-form">
         <h3>login now</h3>
-        <input type="email" placeholder="your email" class="box">
-        <input type="password" placeholder="your password" class="box">
+        <input type="email" name="email" placeholder="Email" class="box">
+        <input type="password" name="password" placeholder="Password" class="box">
         <p>forget your password <a href="#">click here</a></p>
-        <p>don't have an account <a href="#">create now</a></p>
-        <input type="submit" value="login now" class="btn">
+        <p>don't have an account?<a href = "register.php" >Register Now</a></p>
+		<input type="submit" name="register" value="register now" class="btn" onclick="btnReg()" >
+        <input type="submit" name="login" value="login now" class="btn" onclick="btnLog()" >
     </form>
 
 </header>
