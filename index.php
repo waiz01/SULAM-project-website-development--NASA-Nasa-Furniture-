@@ -19,14 +19,7 @@
 </head>
 <body>
     
-	<script>
-		function btnLog(){
-			document.location.href="login.php";
-		}
-		function btnReg(){
-			document.location.href="register.php";
-		}
-	</script>
+
 
 
 
@@ -90,15 +83,24 @@
     </div>
 
     <form action="" class="login-form">
-        <h3>login now</h3>
-        <input type="email" name="email" placeholder="Email" class="box">
-        <input type="password" name="password" placeholder="Password" class="box">
-        <p>forget your password <a href="#">click here</a></p>
-        <p>don't have an account?<a href = "register.php" >Register Now</a></p>
-		<input type="submit" name="register" value="register now" class="btn" onclick="btnReg()" >
-        <input type="submit" name="login" value="login now" class="btn" onclick="btnLog()" >
+        
+		<!-- <input type="submit" name="login" value="login now" class="btn" onclick="bl()">
+			<input type="submit" name="register" value="register now" class="btn" onclick="br()"> -->
+		<a href="login.php" class="btn">login now</a>
+			<a href="register.php" class="btn">register now</a>
+			
+		
+	
+      
     </form>
-
+  <script>
+		function bl(){
+			header("Location: login.php");
+		}
+		function br(){
+			echo windows.location.assign('register.php');
+		}
+	</script>
 </header>
 
 <!-- header section ends -->
