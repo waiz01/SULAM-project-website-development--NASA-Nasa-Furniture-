@@ -110,9 +110,10 @@
 <section class="home" id="home">
 
     <div class="content">
-        <h3>fresh and <span>organic</span> products for your</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero nostrum veniam facere tempore nisi.</p>
-        <a href="#" class="btn">shop now</a>
+        <h3>Solid and <span>ergonomical</span> products for your</h3>
+        <!--<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero nostrum veniam facere tempore nisi.</p>
+       -->
+	   <a href="#" class="btn">shop now</a>
     </div>
 
 </section>
@@ -129,22 +130,22 @@
 
         <div class="box">
             <img src="image/feature-img-1.png" alt="">
-            <h3>fresh and organic</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, earum!</p>
+            <h3>1 YEARS WARRANTY</h3>
+            <p>1 Year of warranty was granted for every buy that was made</p>
             <a href="#" class="btn">read more</a>
         </div>
 
         <div class="box">
             <img src="image/feature-img-2.png" alt="">
             <h3>free delivery</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, earum!</p>
+            <p>Free delivery for every customer base on term and rules</p>
             <a href="#" class="btn">read more</a>
         </div>
 
         <div class="box">
             <img src="image/feature-img-3.png" alt="">
             <h3>easy payments</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, earum!</p>
+            <p>Payment can be made using online bankin and cash.</p>
             <a href="#" class="btn">read more</a>
         </div>
 
@@ -158,15 +159,15 @@
 
 <section class="products" id="products">
 
-    <h1 class="heading"> our <span>products</span> </h1>
+    <h1 class="heading"> OFFICE <span>CHAIRS</span> </h1>
 
     <div class="swiper product-slider">
 
         <div class="swiper-wrapper">
 
             <div class="swiper-slide box">
-                <img src="image/product-1.png" alt="">
-                <h3>fresh orange</h3>
+                <img src="image/chair1.png" alt="">
+                <h3>chair orange</h3>
                 <div class="price"> &#8377 20/- - 30/- </div>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -179,8 +180,8 @@
             </div>
 
             <div class="swiper-slide box">
-                <img src="image/product-2.png" alt="">
-                <h3>fresh onion</h3>
+                <img src="image/chair2.png" alt="">
+                <h3>G305</h3>
                 <div class="price">  &#8377 30/- - 40/- </div>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -193,8 +194,8 @@
             </div>
 
             <div class="swiper-slide box">
-                <img src="image/product-3.png" alt="">
-                <h3>fresh meat</h3>
+                <img src="image/chair3.png" alt="">
+                <h3>Viper MIni</h3>
                 <div class="price">  &#8377 160/- - 210/- </div>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -207,8 +208,8 @@
             </div>
 
             <div class="swiper-slide box">
-                <img src="image/product-4.png" alt="">
-                <h3>fresh cabbage</h3>
+                <img src="image/chair4.png" alt="">
+                <h3>Logitech</h3>
                 <div class="price">  &#8377 40/- - 50/- </div>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -223,14 +224,14 @@
         </div>
 
     </div>
-
+<h1 class="heading"> Sofa <span>Chairs</span> </h1>
     <div class="swiper product-slider">
 
         <div class="swiper-wrapper">
 
             <div class="swiper-slide box">
-                <img src="image/product-5.png" alt="">
-                <h3>fresh potato</h3>
+                <img src="image/sofa1.png" alt="">
+                <h3>Adidas</h3>
                 <div class="price">  &#8377 40/- - 100/- </div>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -243,8 +244,8 @@
             </div>
 
             <div class="swiper-slide box">
-                <img src="image/product-6.png" alt="">
-                <h3>fresh avocado</h3>
+                <img src="image/sofa2.png" alt="">
+                <h3>Nike</h3>
                 <div class="price">  &#8377 90/- - 100/- </div>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -257,8 +258,8 @@
             </div>
 
             <div class="swiper-slide box">
-                <img src="image/product-7.png" alt="">
-                <h3>fresh carrot</h3>
+                <img src="image/sofa3.png" alt="">
+                <h3>Puma</h3>
                 <div class="price">  &#8377 80/- - 90/- </div>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -271,8 +272,8 @@
             </div>
 
             <div class="swiper-slide box">
-                <img src="image/product-8.png" alt="">
-                <h3>green lemon</h3>
+                <img src="image/sofa4.png" alt="">
+                <h3>Kappa</h3>
                 <div class="price">  &#8377 45/- - 55/- </div>
                 <div class="stars">
                     <i class="fas fa-star"></i>
@@ -302,29 +303,29 @@
     <div class="box-container">
 
         <div class="box">
-            <img src="image/cat-1.png" alt="">
-            <h3>vegitables</h3>
+            <img src="image/closet1.png" alt="">
+            <h3>Closet</h3>
             <p>upto 45% off</p>
             <a href="#" class="btn">shop now</a>
         </div>
 
         <div class="box">
-            <img src="image/cat-2.png" alt="">
-            <h3>fresh fruits</h3>
+            <img src="image/set1.png" alt="">
+            <h3>Dining tables</h3>
             <p>upto 45% off</p>
             <a href="#" class="btn">shop now</a>
         </div>
 
         <div class="box">
-            <img src="image/cat-3.png" alt="">
-            <h3>dairy products</h3>
+            <img src="image/chair5.png" alt="">
+            <h3>Ofiice Chairs</h3>
             <p>upto 45% off</p>
             <a href="#" class="btn">shop now</a>
         </div>
 
         <div class="box">
-            <img src="image/cat-4.png" alt="">
-            <h3>fresh meat</h3>
+            <img src="image/sofa3.png" alt="">
+            <h3>sofa</h3>
             <p>upto 45% off</p>
             <a href="#" class="btn">shop now</a>
         </div>
@@ -339,7 +340,7 @@
 
 <section class="review" id="review">
 
-    <h1 class="heading"> customer's <span>review</span> </h1>
+    <h1 class="heading"> Get to know <span>us</span> </h1>
 
     <div class="swiper review-slider">
 
@@ -347,8 +348,8 @@
 
             <div class="swiper-slide box">
                 <img src="image/pic-1.png" alt="">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde sunt fugiat dolore ipsum id est maxime ad tempore quasi tenetur.</p>
-                <h3>john deo</h3>
+                <p>Marketing executive</p>
+                <h3>Waiz</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -360,8 +361,8 @@
 
             <div class="swiper-slide box">
                 <img src="image/pic-2.png" alt="">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde sunt fugiat dolore ipsum id est maxime ad tempore quasi tenetur.</p>
-                <h3>john deo</h3>
+                <p>Delivery executive.</p>
+                <h3>Suhai</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -373,8 +374,8 @@
 
             <div class="swiper-slide box">
                 <img src="image/pic-3.png" alt="">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde sunt fugiat dolore ipsum id est maxime ad tempore quasi tenetur.</p>
-                <h3>john deo</h3>
+                <p> Management executive.</p>
+                <h3>sha syad</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -386,8 +387,8 @@
 
             <div class="swiper-slide box">
                 <img src="image/pic-4.png" alt="">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde sunt fugiat dolore ipsum id est maxime ad tempore quasi tenetur.</p>
-                <h3>john deo</h3>
+                <p> Chairman of Nasa Furniture.</p>
+                <h3>Haikal Arif</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
