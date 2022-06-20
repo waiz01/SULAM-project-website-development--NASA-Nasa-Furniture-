@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zaykaa - Food Ordering Website</title>
+    <title>NasaFurniture</title>
 
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 
@@ -27,7 +27,7 @@
 
 <header class="header">
 
-    <a href="#" class="logo"> <i class="fas fa-shopping-basket"></i> Zaykaa  </a>
+    <a href="#" class="logo"> <i class="fas fa-shopping-basket"></i> NasaFurniture  </a>
 
     <nav class="navbar">
         <a href="#home">home</a>
@@ -421,8 +421,8 @@
                     <a href="#"> <i class="fas fa-user"></i> by user </a>
                     <a href="#"> <i class="fas fa-calendar"></i> 1st may, 2022 </a>
                 </div>
-                <h3>fresh and organic vegitables and fruits</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, expedita.</p>
+                <h3>Title</h3>
+                <p>details description</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
@@ -434,8 +434,8 @@
                     <a href="#"> <i class="fas fa-user"></i> by user </a>
                     <a href="#"> <i class="fas fa-calendar"></i> 1st may, 2022 </a>
                 </div>
-                <h3>fresh and organic vegitables and fruits</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, expedita.</p>
+                <h3>Title</h3>
+                <p>details description</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
@@ -447,8 +447,8 @@
                     <a href="#"> <i class="fas fa-user"></i> by user </a>
                     <a href="#"> <i class="fas fa-calendar"></i> 1st may, 2022 </a>
                 </div>
-                <h3>fresh and organic vegitables and fruits</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, expedita.</p>
+                <h3>Title</h3>
+                <p>details description</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
@@ -466,8 +466,8 @@
     <div class="box-container">
 
         <div class="box">
-            <h3> groco <i class="fas fa-shopping-basket"></i> </h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam, saepe.</p>
+            <h3> NasaFurniture <i class="fas fa-shopping-basket"></i> </h3>
+            <p>--detail of the company-- and location</p>
             <div class="share">
                 <a target="_blank" href="#" class="fab fa-facebook-f"> </a>
                 <a href="#" class="fab fa-twitter"></a>
@@ -478,10 +478,10 @@
 
         <div class="box">
             <h3>contact info</h3>
-            <a href="#" class="links"> <i class="fas fa-phone"></i> +917415192154 </a>
-            <a href="#" class="links"> <i class="fas fa-phone"></i> +918962315400 </a>
-            <a href="#" class="links"> <i class="fas fa-envelope"></i> Abhishekparihar@gmail.com </a>
-            <a href="#" class="links"> <i class="fas fa-map-marker-alt"></i> Indore, india - 452001 </a>
+            <a href="#" class="links"> <i class="fas fa-phone"></i> +01114127143 </a>
+            <a href="#" class="links"> <i class="fas fa-phone"></i> +01113214432 </a>
+            <a href="#" class="links"> <i class="fas fa-envelope"></i> NasaFurnatureCo@gmail.com </a>
+            <a href="#" class="links"> <i class="fas fa-map-marker-alt"></i> Kuala Terengganu, Terengganu - 876877 </a>
         </div>
 
         <div class="box">
@@ -504,7 +504,7 @@
 
     </div>
 
-    <div class="credit"> created by <span> mr. abhishek parihar </span> | all rights reserved </div>
+    <div class="credit"> created by <span> NasaFurniture Company </span> | all rights reserved </div>
 
 </section>
 

@@ -15,7 +15,7 @@ if (isset($_POST['submit'])) {
 	$email = $_POST['email'];
 	$password = md5($_POST['password']);
 	$cpassword = md5($_POST['cpassword']);
-
+	
 	if ($password == $cpassword) {
 		$sql = "SELECT * FROM users WHERE email='$email'";
 		$result = mysqli_query($conn, $sql);
@@ -29,6 +29,7 @@ if (isset($_POST['submit'])) {
 				$email = "";
 				$_POST['password'] = "";
 				$_POST['cpassword'] = "";
+				
 			} else {
 				echo "<script>alert('Woops! Something Wrong Went.')</script>";
 			}
@@ -40,6 +41,8 @@ if (isset($_POST['submit'])) {
 		echo "<script>alert('Password Not Matched.')</script>";
 	}
 }
+
+
 
 ?>
 
